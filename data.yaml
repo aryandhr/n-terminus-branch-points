@@ -1,0 +1,7 @@
+
+path: /Users/aryan/Desktop/branch_data
+train: images
+val: images
+
+names:
+  0: branch point
