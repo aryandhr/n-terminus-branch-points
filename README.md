@@ -6,7 +6,7 @@ This repository houses the codebase and documentation for a research project foc
 
 Here is a preview of the model's performance on unseen data:
 
-![alt text](https://github.com/[aryandhr]/[n-terminus-branch-points]/blob/[main]/20x-Delta-N-GM-120HR-L1-N1-A3-FINAL-SAD111919.tif?raw=true)
+![alt text](https://github.com/[aryandhr]/[n-terminus-branch-points]/[main]/20x-Delta-N-GM-120HR-L1-N1-A3-FINAL-SAD111919.tif?raw=true)
 
 ## Project Highlights:
 
