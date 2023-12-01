@@ -4,6 +4,10 @@
 
 This repository houses the codebase and documentation for a research project focused on automating the identification and counting of dendritic branch points in fruit fly (Drosophila) brains, specifically targeting Spinocerebellar Ataxia type 5 (SCA5) pathology. The project utilizes advanced object detection techniques, leveraging the state-of-the-art YOLOv8 model, to streamline and enhance the analysis process.
 
+Here is a preview of the model's performance on unseen data:
+
+![alt text](https://github.com/[aryandhr]/[n-terminus-branch-points]/blob/[branch]/20x-Delta-N-GM-120HR-L1-N1-A3-FINAL-SAD111919.tif?raw=true)
+
 ## Project Highlights:
 
 - **Research Context:** Collaborative work with PhD candidate Sarah Denha of Oakland University on neurodegenerative disorders, particularly SCA5.
@@ -17,6 +21,7 @@ This repository houses the codebase and documentation for a research project foc
 ## Project Structure:
 
 - **`model.ipynb`**: Contains the source code for the object detection model and any related scripts.
+- **`predictions`**: Contains unseen images by the model and it's predictions on them.
 
 ## Future Enhancements:
 
